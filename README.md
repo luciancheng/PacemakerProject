@@ -2,7 +2,7 @@
 This is a simulated pacemaker built to visually and functionally represent the various functions of modern pacemakers today. The following project is based of [Boston Scientific's](https://www.bostonscientific.com/en-US/Home.html) pacemaker specifications. 
 
 Through model-based code generation and a python gui, we created the following features:
-- 7 unique pacemaker modes (AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, VVIR)
+- 7 unique pacemaker modes (AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, VVIR, DDD, DDDR)
 - Real-time electrocardiogram display
 - Local encrypted data storages     
 
