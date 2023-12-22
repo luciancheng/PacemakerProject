@@ -100,11 +100,3 @@ into the following:
 ```matlab
 { GPIO_MAKE_PIN(GPIOC_IDX, 12),  MW_NOT_USED},// PTC12, D8
 ```
-
-
-## Contributors
-[Brian Manomaisupat](https://www.linkedin.com/in/brian-mano/)
-[Lucian Cheng](https://www.linkedin.com/in/luciancheng/)
-[Melody Yang](https://www.linkedin.com/in/mai-melody-yang/)
-Ansh Mistry
-[Rick Parikh](https://www.linkedin.com/in/rickparikh/)
