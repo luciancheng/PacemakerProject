@@ -15,8 +15,7 @@ Through model-based code generation and a python gui, we created the following f
 ![K64F-Board](https://github.com/luciancheng/PacemakerProject/assets/121974540/bedb9ad1-2879-42bf-a6e7-fcb664fa2192)
 
 <p align="center">
-  <img src="![K64F-Board](https://github.com/luciancheng/PacemakerProject/assets/121974540/d9b10d73-0702-4de9-b870-8f9678ef4c4d)
-" alt="" />
+  ![K64F-Board](https://github.com/luciancheng/PacemakerProject/assets/121974540/bedb9ad1-2879-42bf-a6e7-fcb664fa2192)
   <br>
   <em>The FRDM-K64F Board</em>
 </p>
