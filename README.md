@@ -1,10 +1,10 @@
 # Pacemaker Project
-This is a simulated pacemaker built to visually and functionally represent the various functions of modern pacemakers today. The following project is based of [Boston Scientific's](https://www.bostonscientific.com/en-US/Home.html) pacemaker specifications. 
+This is a simulated pacemaker built to visually and functionally represent the various functions of modern pacemakers today. The following project is based on [Boston Scientific's](https://www.bostonscientific.com/en-US/Home.html) pacemaker specifications. 
 
-Through model-based code generation and a python gui, we created the following features:
-- 7 unique pacemaker modes (AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, VVIR, DDD, DDDR)
-- Real-time electrocardiogram display
-- Local encrypted data storages     
+Through model-based code generation and a Python GUI, we created the following features:
+- 10 unique pacemaker modes (AOO, VOO, AAI, VVI, AOOR, VOOR, AAIR, VVIR, DDD, DDDR)
+- Real-time electrocardiogram display from the ventricle and atrium readings
+- Locally encrypted data storage     
 
 ## Technology Stack
 [Python](https://www.python.org/) | [Matlab Simulink](https://www.mathworks.com/products/simulink.html) | [Customtkinter](https://customtkinter.tomschimansky.com/) | [NXP FRDM K64F Board](https://www.nxp.com/design/design-center/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) | [J-Link](https://www.segger.com/downloads/jlink/)
@@ -65,18 +65,18 @@ Through model-based code generation and a python gui, we created the following f
 #### Modeling with MATLAB Simulink
 Central to modelling our pacemaker's functionality was the use of MATLAB Simulink, which allowed us to generate code iteratively and quickly flash our code into our board. 
 
-Through user-set parameters, our Simulink code allow for pacing of both the atrium and ventricle alongside rate adaptive pacing with a in-built accelerometer. 
+Through user-set parameters, our Simulink code allow for the pacing of both the atrium and ventricle alongside rate adaptive pacing with an in-built accelerometer. 
 
-All important user-set data and electrocardiogram data was framed. The resulting packet was sent through a micro-usb to the device controller monitor.  
+All important user-set data and electrocardiogram data were framed. The resulting packet was sent through a micro USB to the device controller monitor.  
 #### Device Controller Monitor (DCM)
-Through python's tkinter, we created a secure interface that allows for the modification of the pacemaker. Our GUI allows for:
+Through Python's tkinter, we created a secure interface that allows for the modification of the pacemaker. Our GUI allows for:
 - Real-time display of the simulated heartbeat
 - Patient data to be saved and modified
 - Encryption of patient data
 - Serial communication to the K64F board
 
 #### Validation
-To test and validate our pacemaker mode function, we employed Heartview, a McMaster created cardiac simulation tool that was pre-flashed onto our board.
+To test and validate our pacemaker mode function, we employed Heartview, a McMaster-created cardiac simulation tool that was pre-flashed onto our board.
 
 ## Installation
 #### Prerequisites
@@ -85,7 +85,7 @@ To test and validate our pacemaker mode function, we employed Heartview, a McMas
 
 #### Python Libraries 
 ```bash
-pip install customtkinter matplotlib serial cyrptography 
+pip install customtkinter matplotlib serial numpy
 ```
 
 #### MATLAB Simulink Libraries
