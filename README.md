@@ -16,39 +16,52 @@ Through model-based code generation and a python gui, we created the following f
 <p align="center">
   <em>The FRDM-K64F Board</em>
 </p>
+
+![Login-Screen](https://github.com/luciancheng/PacemakerProject/assets/121974540/06ba023e-5ed8-410f-9da2-7d511245351c)
+
 <p align="center">
-  <img src="Images\Login-Screen.jpg" alt="" />
   <br>
   <em>Login Screen</em>
 </p>
+
+![Reg-Screen](https://github.com/luciancheng/PacemakerProject/assets/121974540/be1af9e4-7fe8-4fe8-9742-6201c47416f6)
+
 <p align="center">
-  <img src="Images\Reg-Screen.jpg" alt="" />
   <br>
   <em>Registration Screen</em>
 </p>
+
+![Main-Screen](https://github.com/luciancheng/PacemakerProject/assets/121974540/6b640e71-7199-4250-8c9a-636f1ad628ae)
+
 <p align="center">
-  <img src="Images\Main-Screen.jpg" alt="" />
   <br>
   <em>Main Screen</em>
 </p>
+
+![Electrogram](https://github.com/luciancheng/PacemakerProject/assets/121974540/523ae781-556d-49fd-928e-475a5920ca20)
+
 <p align="center">
-  <img src="Images\Electrogram.jpg" alt="" />
   <br>
   <em>Live Electrogram in UI</em>
 </p>
 
+![Simulink_Overview](https://github.com/luciancheng/PacemakerProject/assets/121974540/11ed58a5-c518-4c06-8126-b36a201e1ca3)
+
 <p align="center">
-  <img src="Images\Simulink_Overview.jpg" alt="" />
   <br>
   <em>Simulink Overview</em>
 </p>
+
+![Mode_Parameter_Stateflow](https://github.com/luciancheng/PacemakerProject/assets/121974540/03a3141e-0181-449d-b27d-221a6d90c3c9)
+
 <p align="center">
-  <img src="Images\Mode_Parameter_Stateflow.jpg" alt="" />
   <br>
   <em>Mode and Parameter Stateflow in Simulink</em>
 </p>
+
+![Serial_Comm](https://github.com/luciancheng/PacemakerProject/assets/121974540/61bb4548-36a7-4f1c-a27a-426864e7b848)
+
 <p align="center">
-  <img src="Images\Serial_Comm.jpg" alt="" />
   <br>
   <em>Serial Communication Stateflow in Simulink</em>
 </p>
