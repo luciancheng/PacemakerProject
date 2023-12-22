@@ -19,7 +19,7 @@ Through model-based code generation and a python gui, we created the following f
 </p>
 
 <p align="center">
-  <img src="[https://github.com/luciancheng/PacemakerProject/assets/121974540/bedb9ad1-2879-42bf-a6e7-fcb664fa2192](https://github.com/luciancheng/PacemakerProject/assets/121974540/06ba023e-5ed8-410f-9da2-7d511245351c)"/>
+  <img src="https://github.com/luciancheng/PacemakerProject/assets/121974540/06ba023e-5ed8-410f-9da2-7d511245351c"/>
   <br>
   <em>Login Screen</em>
 </p>
