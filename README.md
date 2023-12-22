@@ -10,6 +10,8 @@ Through model-based code generation and a Python GUI, we created the following f
 [Python](https://www.python.org/) | [Matlab Simulink](https://www.mathworks.com/products/simulink.html) | [Customtkinter](https://customtkinter.tomschimansky.com/) | [NXP FRDM K64F Board](https://www.nxp.com/design/design-center/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) | [J-Link](https://www.segger.com/downloads/jlink/)
 
 ## Showcase 
+#### Demonstration
+
 #### DCM
 
 <p align="center">
@@ -42,6 +44,7 @@ Through model-based code generation and a Python GUI, we created the following f
   <em>Live Electrogram in UI</em>
 </p>
 
+#### Pacemaker
 <p align="center">
   <img src="https://github.com/luciancheng/PacemakerProject/assets/121974540/11ed58a5-c518-4c06-8126-b36a201e1ca3"/>
   <br>
