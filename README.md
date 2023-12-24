@@ -10,7 +10,7 @@ Through model-based code generation and a Python GUI, we created the following f
 [Python](https://www.python.org/) | [Matlab Simulink](https://www.mathworks.com/products/simulink.html) | [Customtkinter](https://customtkinter.tomschimansky.com/) | [NXP FRDM K64F Board](https://www.nxp.com/design/design-center/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F) | [J-Link](https://www.segger.com/downloads/jlink/)
 
 ## Showcase 
-#### Demonstration
+#### Demonstration 
 
 
 https://github.com/luciancheng/PacemakerProject/assets/121974540/4896bcdc-8cc7-4321-b35f-451968d3cb21
